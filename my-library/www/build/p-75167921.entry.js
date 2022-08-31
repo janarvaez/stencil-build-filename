@@ -1,0 +1,2 @@
+import{r,h as s}from"./p-729958c8.js";const t=class{constructor(s){r(this,s)}render(){return s("div",null)}};export{t as kwc_delete_icon};
+//# sourceMappingURL=p-75167921.entry.js.map

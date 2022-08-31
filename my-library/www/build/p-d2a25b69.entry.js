@@ -1,0 +1,2 @@
+import{r as c,h as n}from"./p-729958c8.js";const t=class{constructor(n){c(this,n)}render(){return n("div",null,n("kwc-close-icon",null),n("kwc-empty",null),n("kwc-button",null))}};export{t as kwc_modal_content};
+//# sourceMappingURL=p-d2a25b69.entry.js.map

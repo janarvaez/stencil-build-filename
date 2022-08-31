@@ -1,0 +1,10 @@
+dist/
+www/
+loader/
+
+.stencil/
+node_modules/
+$RECYCLE.BIN/
+
+.DS_Store
+Thumbs.db

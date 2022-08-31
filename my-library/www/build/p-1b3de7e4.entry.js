@@ -1,0 +1,2 @@
+import{r as t,h as n}from"./p-729958c8.js";const r=class{constructor(n){t(this,n)}render(){return o()}};function o(){return n("li",null,n("kwc-tag",null,"content"))}export{r as usp_autocomplete_container};
+//# sourceMappingURL=p-1b3de7e4.entry.js.map
